@@ -1,0 +1,13 @@
+Package: LorisVersioningPkg
+Type: Package
+Title: Test Versioning Package
+Version: 1.0.0
+Authors@R: person(given = "Lori", family = "Kern",
+		    email = "lori.shepherd@roswellpark.org",
+		    role = c("cre", "aut"))
+Description: Test package for hubs for versioning.
+Imports: utils, ExperimentHub, AnnotationHub
+License: Artistic-2.0
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+biocViews: ExperimentHub, SequencingData, ExpressionData

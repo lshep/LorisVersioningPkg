@@ -1,0 +1,4 @@
+Title,Description,HubId,BiocVersion,Genome,SourceType,SourceUrl,SourceVersion,Species,TaxonomyId,Coordinate_1_based,DataProvider,Maintainer,RDataClass,DispatchClass,Location_Prefix,RDataPath,Tags,Notes
+LoriTest1V2,JustpkgsV2,AH1,3.13,,CSV,https://github.com/lshep,Mar 20 2021,Homo sapiens,9606,TRUE,RPCCC,Lori Shepherd <lori.shepherd@roswellpark.org>,tibble,FilePath,http://s3.amazonaws.com/lori-test-version-conversion/,Justpkgs.txt,,
+LoriTest2,airways,AH2,3.13,,CSV,https://github.com/lshep,Mar 20 2021,Homo sapiens,9606,TRUE,RPCCC,Lori Shepherd <lori.shepherd@roswellpark.org>,tibble,FilePath,http://s3.amazonaws.com/lori-test-version/,TestPackageSub/airway,,
+LoriTest3,nonversion,,3.13,,CSV,https://github.com/lshep,Mar 20 2021,Homo sapiens,9606,TRUE,RPCCC,Lori Shepherd <lori.shepherd@roswellpark.org>,tibble,FilePath,http://s3.amazonaws.com/lori-test-version-nonvesion/,LoriTestFile.csv,,
